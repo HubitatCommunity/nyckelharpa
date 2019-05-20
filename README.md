@@ -1,5 +1,5 @@
 # Nyckelharpa
-![image|330x219](upload://2rvgR6hq8fN2GQVji8FeUNSYDqR.jpeg)  
+![image](https://github.com/arnbme/nyckelharpa/blob/master/images/nyckelharpa.jpg)  
 **The buttons and levers controlling Hubitat Elevation's Home Security Monitor's strings.** 
 ## Purpose
 Nyckepharpa is a user created Hubitat Home Security Monitor (HSM) extension, providing features not available in HSM. Additionally, it simplifies setting up security related messaging. 
